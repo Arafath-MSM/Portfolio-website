@@ -15,6 +15,7 @@
 }
 
 .animated.infinite {
+  
   animation-iteration-count: infinite;
 }
 
